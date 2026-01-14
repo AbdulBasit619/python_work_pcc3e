@@ -45,7 +45,6 @@ Note: At the time of writing, pygame only works upto Python version 3.13.11!
 python -m pip install --user matplotlib
 python -m pip install --user plotly
 python -m pip install --user pandas
-python -m pip install --user requests
 ```
 
 - Working with external libraries (dependencies: `requests`)
