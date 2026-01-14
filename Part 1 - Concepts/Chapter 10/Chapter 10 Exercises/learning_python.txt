@@ -1,0 +1,12 @@
+From this book, I have learned the following things so far:
+In Python you can install and setup python3
+In Python you can work with basic data types and variables
+In Python you can work with lists
+In Python you can work with dictionaries
+In Python you can work with tuples
+In Python you can make decisions with conditional statements
+In Python you can repeat statements a number of times using loops
+In Python you can work with functions
+In Python you can work with classes
+In Python you can take and process inputs from users
+In Python you can work with external modules with import statements

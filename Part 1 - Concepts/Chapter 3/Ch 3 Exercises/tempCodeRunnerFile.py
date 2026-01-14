@@ -1,0 +1,2 @@
+destinations.reverse()
+print(destinations)
